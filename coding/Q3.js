@@ -1,0 +1,11 @@
+// Question 3:
+// Use for loop to print all numbers between 1 and 10, skipping even numbers using continue.
+
+
+
+
+for (let i =0;11>i;i++) {
+    if(i%2==0){
+ continue;
+    } console.log(i)
+}
